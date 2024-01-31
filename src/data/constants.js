@@ -155,20 +155,6 @@ export const experiences = [
 ];
 
 export const projects = [
-  {
-    id: 11,
-    title: "",
-    date: "Jan 2024 - Dec 2023",
-    description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-    image:
-      "",
-    tags: [
-    ],
-    category: "web app",
-    github: "https://github.com/sauriiadhi/weatherAPP",
-    webapp: "",
-  },
 ];
 
 export const TimeLineData = [

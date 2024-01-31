@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { Container, Wrapper, Title, Desc, CardContainer} from './ProjectsStyle'
 import ProjectCard from '../Cards/ProjectCards'
 import { projects } from '../../data/constants'
-
+import {ResumeButton } from '../HeroSection/HeroStyle'
 
 const Projects = ({openModal,setOpenModal}) => {
   const [toggle] = useState('all');
@@ -12,8 +12,9 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
+          I have worked on a wide range of projects. Here are some of my projects.
         </Desc>
+        <ResumeButton href='https://github.com/sauriiadhi' target='display'>Check Github</ResumeButton>
         <CardContainer>
           {toggle === 'all' && projects
             .map((project) => (
