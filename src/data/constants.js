@@ -7,7 +7,7 @@ export const Bio = {
   description:`Experienced UI/Frontend Developer with 3+ years of hands-on expertise. Seeking a challenging role to contribute skills in frontend technologies. Proficient in HTML, CSS, and JavaScript frameworks (React, Angular). Dedicated to crafting seamless and engaging web applications. Eager to bring problem-solving and collaboration skills to an innovative team.`,
   github: "https://github.com/sauriiadhi",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://drive.google.com/file/d/197YYFHybImpyMeTz9vkrjKcEl9Sgl-3y/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/saurabhadhikari2020/",
   insta: "https://www.instagram.com/saurii.adhi/",
   facebook: "https://www.facebook.com/profile.php?id=100003471361981",
